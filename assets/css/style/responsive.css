@@ -1,0 +1,601 @@
+/* style for Tab start*/
+
+@media only screen and (max-width: 1024px) and (min-width: 767px) {
+
+    .container-fluid {
+        padding: 0px 20px !important;
+    }
+
+
+    .responsive_menu{
+        margin-top:0px;
+    }
+
+    .brand_logo {
+        height: 105px;
+    }
+
+    .btn_menu span:nth-child(2) {
+        display: none;
+    }
+
+    .btn_menu {
+        height: 50px;
+        width: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        padding: 0px;
+    }
+
+    .heading_title {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .subtitle_headingg {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .description_data {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .web_button {
+        padding: 5px 40px;
+        font-size: 16px;
+    }
+
+    .animal_img {
+        width: 69%;
+    }
+
+    .bg_color_secondary {
+        padding: 40px 0px;
+    }
+
+    .bg_color_transparent {
+        padding: 40px 0px;
+    }
+
+    .important_link_box {
+        border-radius: 20px;
+        border: none;
+    }
+
+    .hover_title a {
+        padding: 10px 0px;
+        font-size: 16px;
+    }
+
+    .newlatter_title {
+        font-size: 20px;
+    }
+
+    .link_white {
+        padding: 5px 40px;
+        font-size: 16px;
+    }
+
+    .service_box {
+        border-radius: 10px;
+        border: none;
+        padding: 10px;
+    }
+
+    .our_service_link {
+        padding: 10px;
+    }
+
+    .our_service_link a {
+        font-size: 14px;
+    }
+
+    .primary_backgrond {
+        padding: 40px 0px;
+        padding-bottom: 70px;
+    }
+
+    .hospital_img {
+        top: 161px;
+    }
+
+    .button_link_bottom {
+        margin-top: 30px;
+    }
+
+    .link_Channge {
+        padding: 5px 40px;
+        font-size: 16px;
+    }
+
+    .link_primary {
+        padding: 5px 40px;
+        font-size: 16px;
+    }
+
+    .tesimonial_write_title {
+        font-size: 20px;
+    }
+
+    footer {
+        padding: 40px 0px 20px 0px;
+    }
+
+    .footer_logo {
+        width: 60%;
+    }
+
+    .footer_text {
+        font-size: 12px;
+    }
+
+    .social_icons_footer li a {
+        font-size: 14px;
+    }
+
+    .footer_heading {
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+
+    .anchor_item {
+        font-size: 12px;
+    }
+
+    .bottom_footer p {
+        font-size: 12px;
+    }
+}
+
+/* style for Tab end */
+
+
+/* style for mobile */
+
+@media(max-width:768px) {
+.khichdi_box_pot{ margin-bottom:0px;}
+    .revese_colm{
+        flex-direction: column-reverse;
+    }
+    .responsive_menu{
+        margin-top:0px;
+    }
+
+    .container-fluid {
+        padding: 0px 20px !important;
+    }
+
+    .brand_logo {
+        height: 105px;
+    }
+
+    .btn_menu span:nth-child(2) {
+        display: none;
+    }
+
+    .top_header{
+        display: none;
+    }
+
+    .btn_menu {
+        height: 50px;
+        width: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        padding: 0px;
+    }
+
+    .heading_title {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .subtitle_headingg {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .description_data {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .web_button {
+        padding: 5px 40px;
+        font-size: 16px;
+    }
+
+    .animal_img {
+        width: 69%;
+    }
+
+
+    .bg_color_secondary{
+        padding-top:40px !important;
+    }
+    .bg_color_transparent{
+        padding-top:40px !important;
+    }
+
+    .bg_color_secondary {
+        padding: 40px 0px;
+    }
+
+    .bg_color_transparent {
+        padding: 40px 0px;
+    }
+
+
+    .important_link_box {
+        border-radius: 20px;
+        border: none;
+    }
+
+    .hover_title a {
+        padding: 10px 0px;
+        font-size: 16px;
+    }
+
+    .newlatter_title {
+        font-size: 20px;
+        width: 89%;
+        text-align: center;
+    }
+
+    .link_white {
+        padding: 5px 40px;
+        font-size: 16px;
+    }
+    
+    .service_box {
+        border-radius: 10px;
+        border: none;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    .hospital_img {
+        top: initial;
+        width: 65%;
+        bottom: -126px;
+        right: -19px;
+    }
+
+    .our_service_link {
+        padding: 10px;
+    }
+
+    .our_service_link a {
+        font-size: 14px;
+    }
+
+    .primary_backgrond {
+        padding: 40px 0px;
+                padding-bottom: 70px;
+
+    }
+
+
+    .button_link_bottom {
+        margin-top: 30px;
+    }
+
+    .link_Channge {
+        padding: 5px 40px;
+        font-size: 16px;
+    }
+
+    .link_primary {
+        padding: 5px 40px;
+        font-size: 16px;
+    }
+
+    .tesimonial_write_title {
+        font-size: 20px;
+    }
+
+    footer {
+        padding: 40px 0px 20px 0px;
+    }
+
+    .footer_logo {
+        width: 60%;
+    }
+
+    .footer_text {
+        font-size: 12px;
+    }
+
+    .social_icons_footer li a {
+        font-size: 14px;
+    }
+
+    .footer_heading {
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+
+    .anchor_item {
+        font-size: 12px;
+    }
+
+    .bottom_footer p {
+        font-size: 12px;
+    }
+
+    .banner_img{
+        border-radius: 15px;
+        margin-bottom: 20px;
+        margin-top:20px;
+    }
+
+    .banner_section{
+        height:100px;
+    }
+    .slider_banner{
+        margin-top:-100px;
+    }
+   
+    .important_link_box{
+        margin-bottom: 20px;
+    }
+    .gallary_img{
+        border-radius: 10px;
+        margin-bottom: 15px;
+        height: 140px;
+        object-fit: cover;
+    }
+    .review_content{
+        padding:20px 30px;
+    }
+    .user_cmt{
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .user_name{
+        font-size: 18px;
+    }
+    .review_box:after{
+        top:29px;
+            height: 59px;
+    width: 75px;
+    }
+
+
+    .service_box:hover .service_img{
+            height: 221.73px;
+    }
+    .service_box:hover .Daya_service{
+        border-radius: 10px;
+    }
+    .service_box:hover .our_service_link a{
+        font-size: 14px;
+    }
+
+    /* hospotal page start */
+
+    .title_here_Bank{
+      font-size: 22px;
+   margin-bottom: 20px;
+}
+    .section_heading{
+        font-size: 22px;
+    }
+    .section_sb_heading{
+        font-size: 18px;
+    }
+    .range_circle_box{
+        margin-top: 20px;
+    }
+    .box_model_track h4{
+        font-size: 12px;
+    }
+    .box_panelstart{
+        flex-direction: column;
+    }
+.text_title_rotate{
+    rotate: 0deg;
+  width: 100%;
+    margin-bottom: 10px;
+}
+  
+
+    .text_title_rotate{
+        font-size: 9px;
+    }
+    .title_here_Bank{
+            margin-bottom: 30px;
+    font-size: 22px;
+    }
+
+    .select_donate_box{
+        padding: 5px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .donate_type_img{
+        border-radius: 10px;
+
+            margin-bottom: 20px;
+    height: 100px;
+    object-fit: cover;
+    }
+    .donation_type{
+            font-size: 11px;
+  
+    margin-bottom: 20px;
+    }
+    .donate_button_style{
+          font-size: 11px;
+  
+    padding: 5px;
+    }
+
+    .hover_conntnet p{
+        font-size: 10px;
+    }
+    /* hospital page end */
+
+
+    /* khichdi distribution */
+
+    .khichdi_box_pot{
+        margin-top: 100px;
+    }
+
+  
+    .flex_boxxx_list{
+        flex-wrap: wrap;
+    flex-direction: column;
+    align-items: start;
+    gap: 6px;
+    }
+
+    .distribution_box{
+        margin-top: 20px;
+    }
+    /* humanns service */
+
+    .human_img_box{
+        margin-right: -20px;
+    }
+    .paddin_left_logo{
+        padding-left: 30px;
+    }
+
+    /* medicine donatino */
+
+    .medicine_donation_img{
+        /* display: none; */
+    }
+    .select_donate_box {
+        padding-top: 5px !important;
+    }
+
+    .fix_img_service{
+            height: 200px;
+    border-radius: 20px;
+    width: 100%;
+
+    }
+    .service_content {
+        width: 100%;
+        padding: 15px 10px 10px 10px;
+        margin: initial;
+    }
+    .parent_container{
+        border-radius: 20px;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .hover_container{
+        border-radius: 20px;
+    }
+    .hover_container .description_data{
+    
+        width: 90%;
+        }
+        .font_24_here{
+            width:100%;
+        }
+
+        /* voluenteer  */
+        .volunteer_box{
+            padding:10px;
+            border-radius: 20px;
+            margin-bottom: 20px;
+            height: 285px;
+        }
+        .volunteer_box:hover img{
+            height: 263px;
+        }
+        .volunterr_img{
+            border-radius: 20px;
+        }
+        .volunteer_details{
+                border-radius: 0px 0px 20px 20px;
+        }
+        .volunterr_img{
+            height:190px;
+        }
+        .volunteer_name{
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .volunteer_location{
+            font-size: 16px;
+        }
+
+        .parent_valunteer_box{
+            height: 265px;
+        }
+        /* contact us */
+        .address_description{
+            font-size: 15px;
+        }
+        .svg_iconF{
+            height: 17px;
+        }
+
+        .address_list_items{
+            margin-bottom: 5px;
+        }
+        .form_bg{
+            padding:20px;
+            border-radius: 20px;
+        }
+        
+.inpt_style{
+    font-size: 15px;
+        border-radius: 26px;
+}
+
+.donatin_list_itemss{
+    width: 100%;
+}
+
+
+/* trust document start */
+.docuemnt_boxx iframe{
+    height: 160px;
+}
+
+
+
+/* trust document end */
+
+.whats_box{
+    right: 20px;
+    bottom: 20px;
+}
+.thankyou_img{
+    width: 90%;
+}
+
+    .text_cotr{
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .section-thanks .sub-header{
+        font-size: 110%;
+    }
+    .linkbutton{
+        padding: 10px 30px;
+    }
+    .failed_img{
+        width: 65%;
+    }
+}
+
+
+
+
+
+/* style for mobile */

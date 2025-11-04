@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <?php include('include/meta.php') ?>
+
+    <title>Error</title>
+
+    <?php include('include/link.php') ?>
+    
+</head>
+
+
+<body>
+    <!-- Hedaer start -->
+    <?php include('include/header.php') ?>
+    <!-- Header End -->
+
+
+
+    <!-- thank you section -->
+    
+<div class="bg_color_secondary" style=" background: #ffffff;">
+    <div class="container-fluid">
+        <div class="section-thanks" style="">
+            <img src="<?php echo $website_url;?>/assets/images/error.png" class="failed_img">
+
+                    <h2 class="sub-header">Hey Thanks for Reaching Us</h2>
+
+                    <div class="conntents">
+                        <p class="text_cotr">We have received your query. Will be happy to assist you and provide a fast response ASAP. Meanwhile, explore more about our projects and service offerings.</p>
+                     </div>
+
+                    <a href="<?php echo $website_url;?>/index.php" class="donatetoggle donate_button_style linkbutton">Back to Home</a>
+
+
+        </div>
+    </div>
+</div>
+
+    <!-- thank you end -->
+
+    <!-- review start -->
+    <?php include('include/testimonial.php') ?>
+    <!-- review end --> 
+
+    <!-- footer start -->
+    <?php include('include/footer.php') ?>
+    <!-- footer end -->
+
+    <!-- script start-->
+    <?php include('include/script.php') ?>
+    <!-- script end-->
+     
+</body>
+
+</html>

@@ -1,0 +1,264 @@
+[07-May-2025 12:59:20 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 129
+[07-May-2025 12:59:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 129
+[07-May-2025 12:59:27 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 129
+[07-May-2025 12:59:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 129
+[07-May-2025 13:01:38 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 129
+[07-May-2025 13:01:38 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 129
+[07-May-2025 13:44:23 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php on line 4
+[07-May-2025 13:44:23 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 22
+[07-May-2025 13:44:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php:24
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php(24): in_array()
+#1 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php(4): Navigation->setNavigation()
+#2 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(33): include('/home/f93aei2uy...')
+#3 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 24
+[07-May-2025 13:44:55 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 129
+[07-May-2025 13:44:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 129
+[07-May-2025 13:50:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Home::GetClientDetailsbyID() in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25
+[07-May-2025 13:51:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Home::GetClientDetailsbyID() in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25
+[07-May-2025 13:51:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Home::GetClientDetailsbyID() in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25
+[07-May-2025 13:51:23 Asia/Kolkata] PHP Warning:  Undefined variable $Home in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25
+[07-May-2025 13:51:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function GetClientDetailsbyID() on null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25
+[07-May-2025 13:51:24 Asia/Kolkata] PHP Warning:  Undefined variable $Home in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25
+[07-May-2025 13:51:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function GetClientDetailsbyID() on null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25
+[07-May-2025 13:51:37 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 13:51:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 13:54:05 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Client::GetClientDetailsbyID(), 0 passed in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25 and exactly 1 expected in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php:114
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(25): Client->GetClientDetailsbyID()
+#1 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php on line 114
+[07-May-2025 13:54:07 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Client::GetClientDetailsbyID(), 0 passed in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25 and exactly 1 expected in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php:114
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(25): Client->GetClientDetailsbyID()
+#1 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php on line 114
+[07-May-2025 13:54:16 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Client::GetClientDetailsbyID(), 0 passed in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25 and exactly 1 expected in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php:114
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(25): Client->GetClientDetailsbyID()
+#1 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php on line 114
+[07-May-2025 13:58:07 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Client::GetClientDetailsbyID(), 0 passed in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 25 and exactly 1 expected in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php:114
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(25): Client->GetClientDetailsbyID()
+#1 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php on line 114
+[07-May-2025 14:03:11 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 132
+[07-May-2025 14:03:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 132
+[07-May-2025 14:03:38 Asia/Kolkata] PHP Warning:  Undefined array key "ClientUrl" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 132
+[07-May-2025 14:04:42 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Client::GetClientDetailsbyID(), 0 passed in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26 and exactly 1 expected in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php:114
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(26): Client->GetClientDetailsbyID()
+#1 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php on line 114
+[07-May-2025 14:04:44 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Client::GetClientDetailsbyID(), 0 passed in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26 and exactly 1 expected in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php:114
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(26): Client->GetClientDetailsbyID()
+#1 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/client.class.php on line 114
+[07-May-2025 14:05:15 Asia/Kolkata] PHP Warning:  Undefined variable $ID in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26
+[07-May-2025 14:05:15 Asia/Kolkata] PHP Warning:  Undefined variable $row in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/core.class.php on line 175
+[07-May-2025 14:05:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 132
+[07-May-2025 14:05:52 Asia/Kolkata] PHP Warning:  Undefined variable $ID in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26
+[07-May-2025 14:05:52 Asia/Kolkata] PHP Warning:  Undefined variable $row in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/core.class.php on line 175
+[07-May-2025 14:05:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 132
+[07-May-2025 14:14:47 Asia/Kolkata] PHP Warning:  Undefined variable $Client in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26
+[07-May-2025 14:14:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function GetClientDetailsbyID() on null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26
+[07-May-2025 14:14:58 Asia/Kolkata] PHP Warning:  Undefined variable $ID in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26
+[07-May-2025 14:14:58 Asia/Kolkata] PHP Warning:  Undefined variable $row in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/core.class.php on line 175
+[07-May-2025 14:14:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 132
+[07-May-2025 14:15:10 Asia/Kolkata] PHP Warning:  Undefined variable $ID in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26
+[07-May-2025 14:15:10 Asia/Kolkata] PHP Warning:  Undefined variable $row in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/core.class.php on line 175
+[07-May-2025 14:15:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 132
+[07-May-2025 14:17:55 Asia/Kolkata] PHP Warning:  Undefined variable $ID in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26
+[07-May-2025 14:17:55 Asia/Kolkata] PHP Warning:  Undefined variable $row in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/core.class.php on line 175
+[07-May-2025 14:17:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 62
+[07-May-2025 14:17:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[07-May-2025 14:20:29 Asia/Kolkata] PHP Warning:  Undefined variable $ID in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 26
+[07-May-2025 14:20:29 Asia/Kolkata] PHP Warning:  Undefined variable $row in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/core.class.php on line 175
+[07-May-2025 14:38:51 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 14:38:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 14:39:01 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 14:39:01 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:35:02 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:35:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:38:39 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:38:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:39:17 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:39:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:39:42 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:39:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:44:03 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:44:03 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:44:21 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:44:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:45:08 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:45:08 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:47:14 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[07-May-2025 15:47:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 11:51:46 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 11:51:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 12:37:08 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 12:37:08 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 12:38:22 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 12:38:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 13:40:33 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php on line 4
+[14-May-2025 13:40:33 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 22
+[14-May-2025 13:40:33 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php:24
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php(24): in_array()
+#1 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php(4): Navigation->setNavigation()
+#2 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(34): include('/home/f93aei2uy...')
+#3 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 24
+[14-May-2025 15:52:44 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 15:52:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 16:04:09 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 16:04:09 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 16:04:12 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 16:04:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 16:05:49 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 16:05:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 17:39:19 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[14-May-2025 17:39:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[15-May-2025 11:09:57 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[15-May-2025 11:09:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[16-May-2025 17:08:49 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php on line 4
+[16-May-2025 17:08:49 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 22
+[16-May-2025 17:08:49 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php:24
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php(24): in_array()
+#1 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php(4): Navigation->setNavigation()
+#2 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(34): include('/home/f93aei2uy...')
+#3 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 24
+[16-May-2025 17:09:08 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[16-May-2025 17:09:08 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[20-May-2025 17:56:42 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[20-May-2025 17:56:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[21-May-2025 14:04:02 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[21-May-2025 14:04:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 131
+[21-May-2025 15:01:45 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php on line 4
+[21-May-2025 15:01:45 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 22
+[21-May-2025 15:01:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php:24
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php(24): in_array()
+#1 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php(4): Navigation->setNavigation()
+#2 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php(34): include('/home/f93aei2uy...')
+#3 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 24
+[21-May-2025 15:02:13 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:02:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:02:13 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 132
+[21-May-2025 15:02:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 132
+[21-May-2025 15:02:13 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 136
+[21-May-2025 15:02:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 136
+[21-May-2025 15:02:49 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:02:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:02:49 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:02:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:07:01 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:07:01 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:07:01 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:07:01 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:07:18 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:07:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:07:18 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:07:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:08:11 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:08:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:08:11 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:08:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:21:11 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:21:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:21:11 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:21:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:28:16 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:28:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:28:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:28:16 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:28:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:28:24 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:28:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:28:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:28:24 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:28:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:29:30 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:29:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:29:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:29:30 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:29:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:30:05 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:30:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:30:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:30:05 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:30:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:30:27 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:30:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:30:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:30:27 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:30:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:51:27 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:51:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:51:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 15:51:27 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 15:51:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:06:12 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:06:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:06:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:06:12 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:06:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:38:53 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:38:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:38:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:38:53 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:38:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:39:05 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:39:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:39:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:39:05 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:39:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:39:35 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:39:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:39:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:39:35 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:39:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:41:06 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:41:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:41:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:41:06 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:41:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:42:37 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:42:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:42:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:42:37 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:42:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:43:05 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:43:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:43:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:43:05 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:43:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:44:02 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:44:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:44:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 128
+[21-May-2025 16:44:02 Asia/Kolkata] PHP Warning:  Undefined variable $client_details in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133
+[21-May-2025 16:44:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/client/view-all-client.php on line 133

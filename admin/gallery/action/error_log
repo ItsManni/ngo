@@ -1,0 +1,18 @@
+[02-Oct-2025 17:23:54 UTC] PHP Warning:  include_once(../classes/gallerymanager.class.php): Failed to open stream: No such file or directory in /home1/a17404c5/public_html/admin/include/autoloader.inc.php on line 55
+[02-Oct-2025 17:23:54 UTC] PHP Warning:  include_once(): Failed opening '../classes/gallerymanager.class.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a17404c5/public_html/admin/include/autoloader.inc.php on line 55
+[02-Oct-2025 17:23:54 UTC] PHP Fatal error:  Uncaught Error: Class "GalleryManager" not found in /home1/a17404c5/public_html/admin/gallery/action/gallery-unified-action.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/a17404c5/public_html/admin/gallery/action/gallery-unified-action.php on line 7
+[02-Oct-2025 17:23:59 UTC] PHP Warning:  include_once(../classes/gallerymanager.class.php): Failed to open stream: No such file or directory in /home1/a17404c5/public_html/admin/include/autoloader.inc.php on line 55
+[02-Oct-2025 17:23:59 UTC] PHP Warning:  include_once(): Failed opening '../classes/gallerymanager.class.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a17404c5/public_html/admin/include/autoloader.inc.php on line 55
+[02-Oct-2025 17:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "GalleryManager" not found in /home1/a17404c5/public_html/admin/gallery/action/gallery-unified-action.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/a17404c5/public_html/admin/gallery/action/gallery-unified-action.php on line 7
+[02-Oct-2025 17:24:12 UTC] PHP Warning:  include_once(../classes/gallerymanager.class.php): Failed to open stream: No such file or directory in /home1/a17404c5/public_html/admin/include/autoloader.inc.php on line 55
+[02-Oct-2025 17:24:12 UTC] PHP Warning:  include_once(): Failed opening '../classes/gallerymanager.class.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/a17404c5/public_html/admin/include/autoloader.inc.php on line 55
+[02-Oct-2025 17:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "GalleryManager" not found in /home1/a17404c5/public_html/admin/gallery/action/gallery-unified-action.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/a17404c5/public_html/admin/gallery/action/gallery-unified-action.php on line 7

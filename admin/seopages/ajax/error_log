@@ -1,0 +1,6 @@
+[17-Apr-2025 12:09:20 Asia/Kolkata] PHP Warning:  Attempt to read property "num_rows" on bool in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/core.class.php on line 230
+[17-Apr-2025 12:09:20 Asia/Kolkata] PHP Warning:  Attempt to read property "num_rows" on bool in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/seopage.class.php on line 131
+[30-Apr-2025 11:54:56 Asia/Kolkata] PHP Warning:  Attempt to read property "num_rows" on bool in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/core.class.php on line 230
+[30-Apr-2025 11:54:56 Asia/Kolkata] PHP Warning:  Attempt to read property "num_rows" on bool in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/seopage.class.php on line 131
+[30-Apr-2025 16:36:36 Asia/Kolkata] PHP Warning:  Attempt to read property "num_rows" on bool in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/core.class.php on line 230
+[30-Apr-2025 16:36:36 Asia/Kolkata] PHP Warning:  Attempt to read property "num_rows" on bool in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/seopage.class.php on line 131

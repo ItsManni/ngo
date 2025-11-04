@@ -1,0 +1,15 @@
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Warning:  Undefined array key "form_action" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/blogs/action/blog-form-action.php on line 14
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Warning:  Undefined array key "Category" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php on line 105
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Warning:  Undefined array key "MetaTitle" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php on line 106
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Warning:  Undefined array key "MetaDescription" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php on line 107
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Warning:  Undefined array key "OGTitle" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php on line 108
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Warning:  Undefined array key "OGDescription" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php on line 109
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Warning:  Undefined array key "Status" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php on line 110
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Warning:  Undefined array key "form_id" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php on line 117
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Warning:  Undefined array key "Tags" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php on line 122
+[05-May-2025 17:16:16 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php:127
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php(127): array_map()
+#1 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/blogs/action/blog-form-action.php(27): Blog->UpdateBlogForm()
+#2 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/blog.class.php on line 127

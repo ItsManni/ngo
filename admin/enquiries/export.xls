@@ -1,0 +1,45 @@
+
+   <table class="table" border="1">
+                    <tr>
+                         <th>ID</th>
+                         <th>Company Name</th>
+                         <th>Customer Name</th>
+                         <th>Email</th>
+                         <th>PhoneNumber</th>
+                         <th>State</th>
+                         <th>City</th>
+                         <th>Printer Name</th>
+                         <th>Serial Number</th>
+                         <th>Message</th>
+                         <th>Created Date</th>
+                         <th>Created Time</th>
+                    </tr>
+  <tr>
+                        <td>1</td>
+                        <td>DigiStreet Media</td>
+                        <td>ww</td>
+                        <td>gsgsg@gmail.com</td>
+                        <td>3688545565</td>
+                        <td>sss</td>
+                        <td>cccc</td>
+                        <td>ppp</td>
+                        <td>ssss</td>
+                        <td>mmmm</td>
+                        <td>2025-03-26</td>
+                        <td>10:20:06</td>
+                    </tr>
+   <tr>
+                        <td>2</td>
+                        <td>Demo</td>
+                        <td>Amit</td>
+                        <td>demo@gmail.com</td>
+                        <td>99999999999</td>
+                        <td>Uttar Pradesh</td>
+                        <td>Nodia</td>
+                        <td>DX350</td>
+                        <td>123</td>
+                        <td></td>
+                        <td>2025-05-01</td>
+                        <td>11:12:16</td>
+                    </tr>
+   
