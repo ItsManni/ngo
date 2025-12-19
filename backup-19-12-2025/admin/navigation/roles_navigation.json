@@ -1,0 +1,11 @@
+{
+  "System Admin": [
+    "_Nav_Dashboard",
+    "_Nav_Users",
+    "_Nav_Configurations",
+    "_Nav_Testimonials",
+    "_Nav_Products",
+    "_Nav_Gallery",
+    "_Nav_Volunteer"
+  ]
+}

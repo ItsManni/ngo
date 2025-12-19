@@ -1,0 +1,46 @@
+[16-Sep-2025 21:27:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home1/a17404c5/public_html/admin/classes/dbh.class.php:82
+Stack trace:
+#0 /home1/a17404c5/public_html/admin/classes/dbh.class.php(82): mysqli->__construct('localhost', 'a17404c5_dayabh...', Object(SensitiveParameterValue), 'a17404c5_dayabh...')
+#1 /home1/a17404c5/public_html/index.php(4): Dbh->_connectodb()
+#2 {main}
+  thrown in /home1/a17404c5/public_html/admin/classes/dbh.class.php on line 82
+[16-Sep-2025 21:29:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home1/a17404c5/public_html/admin/classes/dbh.class.php:82
+Stack trace:
+#0 /home1/a17404c5/public_html/admin/classes/dbh.class.php(82): mysqli->__construct('localhost', 'a17404c5_dayabh...', Object(SensitiveParameterValue), 'a17404c5_dayabh...')
+#1 /home1/a17404c5/public_html/index.php(4): Dbh->_connectodb()
+#2 {main}
+  thrown in /home1/a17404c5/public_html/admin/classes/dbh.class.php on line 82
+[16-Sep-2025 21:29:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home1/a17404c5/public_html/admin/classes/dbh.class.php:82
+Stack trace:
+#0 /home1/a17404c5/public_html/admin/classes/dbh.class.php(82): mysqli->__construct('localhost', 'a17404c5_dayabh...', Object(SensitiveParameterValue), 'a17404c5_dayabh...')
+#1 /home1/a17404c5/public_html/index.php(4): Dbh->_connectodb()
+#2 {main}
+  thrown in /home1/a17404c5/public_html/admin/classes/dbh.class.php on line 82
+[02-Oct-2025 15:43:35 UTC] PHP Warning:  Undefined variable $AllSevayeProducts in /home1/a17404c5/public_html/medicine-donation.php on line 272
+[02-Oct-2025 15:43:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/a17404c5/public_html/medicine-donation.php on line 272
+[02-Oct-2025 15:47:49 UTC] PHP Warning:  Undefined variable $AllSevayeProducts in /home1/a17404c5/public_html/medicine-donation.php on line 272
+[02-Oct-2025 15:47:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/a17404c5/public_html/medicine-donation.php on line 272
+[02-Oct-2025 15:48:06 UTC] PHP Warning:  Undefined variable $AllSevayeProducts in /home1/a17404c5/public_html/medicine-donation.php on line 272
+[02-Oct-2025 15:48:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/a17404c5/public_html/medicine-donation.php on line 272
+[27-Oct-2025 06:45:13 Asia/Kolkata] PHP Warning:  Undefined variable $AllSubSevaye in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 06:45:13 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:00:54 Asia/Kolkata] PHP Warning:  Undefined variable $AllSubSevaye in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:00:54 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:00:54 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/hospital.php on line 516
+[27-Oct-2025 07:01:06 Asia/Kolkata] PHP Warning:  Undefined variable $AllSubSevaye in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:01:06 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:01:06 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/hospital.php on line 516
+[27-Oct-2025 07:01:16 Asia/Kolkata] PHP Warning:  Undefined variable $AllSubSevaye in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:01:16 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:01:16 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/hospital.php on line 516
+[27-Oct-2025 07:02:30 Asia/Kolkata] PHP Warning:  Undefined variable $AllSubSevaye in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:02:30 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:02:30 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/hospital.php on line 516
+[27-Oct-2025 07:05:14 Asia/Kolkata] PHP Warning:  Undefined variable $AllSubSevaye in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:05:14 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/a17404c5/public_html/hospital.php on line 130
+[27-Oct-2025 07:05:14 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/hospital.php on line 516
+[01-Nov-2025 21:24:43 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/annadanam.php on line 200
+[02-Nov-2025 13:59:49 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/annadanam.php on line 200
+[02-Nov-2025 14:10:48 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/annadanam.php on line 200
+[02-Nov-2025 16:15:45 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/annadanam.php on line 200
+[03-Nov-2025 07:40:35 Asia/Kolkata] PHP Warning:  Undefined variable $SubcategoryProducts in /home1/a17404c5/public_html/annadanam.php on line 200

@@ -1,0 +1,18 @@
+[05-May-2025 15:06:44 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php on line 4
+[05-May-2025 15:06:44 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 22
+[05-May-2025 15:06:44 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php:24
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php(24): in_array()
+#1 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php(4): Navigation->setNavigation()
+#2 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/enquiries/view-all-contact-enquiries.php(33): include('/home/f93aei2uy...')
+#3 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 24
+[16-May-2025 16:45:52 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php on line 4
+[16-May-2025 16:45:52 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 22
+[16-May-2025 16:45:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php:24
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php(24): in_array()
+#1 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php(4): Navigation->setNavigation()
+#2 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/enquiries/view-all-contact-enquiries.php(33): include('/home/f93aei2uy...')
+#3 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 24
