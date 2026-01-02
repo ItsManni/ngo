@@ -1,0 +1,58 @@
+[24-Apr-2025 13:42:07 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php on line 4
+[24-Apr-2025 13:42:07 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 22
+[24-Apr-2025 13:42:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php:24
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php(24): in_array()
+#1 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php(4): Navigation->setNavigation()
+#2 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/configuration/view-configuration.php(56): include('/home/f93aei2uy...')
+#3 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 24
+[24-Apr-2025 15:34:55 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php on line 4
+[24-Apr-2025 15:34:55 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 22
+[24-Apr-2025 15:34:55 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php:24
+Stack trace:
+#0 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php(24): in_array()
+#1 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/navigation/side-navigation.php(4): Navigation->setNavigation()
+#2 /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/configuration/view-configuration.php(56): include('/home/f93aei2uy...')
+#3 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/classes/navigation.class.php on line 24
+[15-Aug-2025 21:50:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a17404c5/public_html/web/admin/include/autoloader.inc.php:70) in /home1/a17404c5/public_html/web/admin/classes/authentication.class.php on line 137
+[15-Aug-2025 21:50:51 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home1/a17404c5/public_html/web/admin/navigation/side-navigation.php on line 7
+[15-Aug-2025 21:50:51 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php on line 45
+[15-Aug-2025 21:50:51 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php:49
+Stack trace:
+#0 /home1/a17404c5/public_html/web/admin/classes/navigation.class.php(49): in_array('_Nav_Dashboard', NULL)
+#1 /home1/a17404c5/public_html/web/admin/navigation/side-navigation.php(7): Navigation->setNavigation(NULL)
+#2 /home1/a17404c5/public_html/web/admin/configuration/view-configuration.php(64): include('/home1/a17404c5...')
+#3 {main}
+  thrown in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php on line 49
+[15-Aug-2025 21:51:07 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a17404c5/public_html/web/admin/include/autoloader.inc.php:70) in /home1/a17404c5/public_html/web/admin/classes/authentication.class.php on line 137
+[15-Aug-2025 21:51:07 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home1/a17404c5/public_html/web/admin/navigation/side-navigation.php on line 7
+[15-Aug-2025 21:51:07 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php on line 45
+[15-Aug-2025 21:51:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php:49
+Stack trace:
+#0 /home1/a17404c5/public_html/web/admin/classes/navigation.class.php(49): in_array('_Nav_Dashboard', NULL)
+#1 /home1/a17404c5/public_html/web/admin/navigation/side-navigation.php(7): Navigation->setNavigation(NULL)
+#2 /home1/a17404c5/public_html/web/admin/configuration/view-configuration.php(64): include('/home1/a17404c5...')
+#3 {main}
+  thrown in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php on line 49
+[15-Aug-2025 21:51:25 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a17404c5/public_html/web/admin/include/autoloader.inc.php:70) in /home1/a17404c5/public_html/web/admin/classes/authentication.class.php on line 137
+[15-Aug-2025 21:51:25 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home1/a17404c5/public_html/web/admin/navigation/side-navigation.php on line 7
+[15-Aug-2025 21:51:25 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php on line 45
+[15-Aug-2025 21:51:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php:49
+Stack trace:
+#0 /home1/a17404c5/public_html/web/admin/classes/navigation.class.php(49): in_array('_Nav_Dashboard', NULL)
+#1 /home1/a17404c5/public_html/web/admin/navigation/side-navigation.php(7): Navigation->setNavigation(NULL)
+#2 /home1/a17404c5/public_html/web/admin/configuration/view-configuration.php(64): include('/home1/a17404c5...')
+#3 {main}
+  thrown in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php on line 49
+[15-Aug-2025 21:52:14 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/a17404c5/public_html/web/admin/include/autoloader.inc.php:70) in /home1/a17404c5/public_html/web/admin/classes/authentication.class.php on line 137
+[15-Aug-2025 21:52:14 Asia/Kolkata] PHP Warning:  Undefined array key "pp_UserType" in /home1/a17404c5/public_html/web/admin/navigation/side-navigation.php on line 7
+[15-Aug-2025 21:52:14 Asia/Kolkata] PHP Warning:  Undefined array key "" in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php on line 45
+[15-Aug-2025 21:52:14 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php:49
+Stack trace:
+#0 /home1/a17404c5/public_html/web/admin/classes/navigation.class.php(49): in_array('_Nav_Dashboard', NULL)
+#1 /home1/a17404c5/public_html/web/admin/navigation/side-navigation.php(7): Navigation->setNavigation(NULL)
+#2 /home1/a17404c5/public_html/web/admin/configuration/view-configuration.php(64): include('/home1/a17404c5...')
+#3 {main}
+  thrown in /home1/a17404c5/public_html/web/admin/classes/navigation.class.php on line 49

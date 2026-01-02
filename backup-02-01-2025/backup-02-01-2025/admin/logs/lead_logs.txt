@@ -1,0 +1,925 @@
+
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(Center,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('3','manish','Male','manish1222@gmail.com','8433098395','Andaman and Nicobar Islands','Delhi','ramnager  road, nainital','Online','1,3','5','2024-05-27','15:43:15','admin@ims.com','','','')
+Unknown column 'Center' in 'field list'
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(Center,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('3','manish','Male','manish1222@gmail.com','8433098395','Andaman and Nicobar Islands','Delhi','ramnager  road, nainital','Online','1,3','5','2024-05-27','15:43:25','admin@ims.com','','','')
+Unknown column 'Center' in 'field list'
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('3','manish','Male','manish1222@gmail.com','8433098395','Andaman and Nicobar Islands','Delhi','ramnager  road, nainital','Online','1,3','5','2024-05-27','15:43:43','admin@ims.com','','','')
+Data truncated for column 'Course' at row 1
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('3','manish','Male','manish1222@gmail.com','8433098395','Andaman and Nicobar Islands','Delhi','ramnager  road, nainital','Online','1','5','2024-05-27','15:44:22','admin@ims.com','','','')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('2','manish','Male','manish455@gmail.com','8433098397','Andaman and Nicobar Islands','Delhi','ramnager  road, nainital','Online','1,2','5','2024-05-27','15:46:02','admin@ims.com','','','')
+Data truncated for column 'Course' at row 1
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('2','manish','Male','manish455@gmail.com','8433098397','Andaman and Nicobar Islands','Delhi','ramnager  road, nainital','Online','1,2','5','2024-05-27','15:46:48','admin@ims.com','','','')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('','Manish Sharma','Male','manishsharma.gary+202299@gmail.com','6384738393','Uttrakhand','Delhi','N/A','Offline','2','-1','2024-05-30','14:52:23','','','12','')
+Incorrect integer value: '' for column 'BranchID' at row 1
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('1','Manish Sharma','Male','manishsharma.gary+202299@gmail.com','6384738393','Uttrakhand','Delhi','N/A','Offline','2','-1','2024-05-30','14:52:45','','','12','')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('4','manish','Male','manish6666@gmail.com','8433066666','Andhra Pradesh','Delhi','ramnager  road, nainital','Offline','13','7','2024-05-30','15:52:22','admin@ims.com','','','')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark) VALUES ('1','Manish Sharma','Male','manishsharma.gary+2502299@gmail.com','6384737393','Uttrakhand','Delhi','N/A','Offline','2','-1','2024-05-30','16:15:02','','','12','')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource) VALUES ('1','Manish Sharma','Male','manishsharma.gary+202299@gmail.com','6384738393','Delhi','Delhi','N/A','Offline','1','-1','2024-05-31','15:41:38','','','','','Web')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource) VALUES ('1','Manish Sharma','Male','manishsharma.gary+2029@gmail.com','6384738383','Delhi','Delhi','N/A','Offline','1','-1','2024-05-31','15:42:06','','','','','Web')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource) VALUES ('1','Manish Sharma','Male','pgfiry@gmail.com','8826789578','Delhi','Delhi','N/A','Offline','1','-1','2024-05-31','15:45:07','','','','','Web')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','manish','Male','manish@gmail.com','8433098333','Andaman and Nicobar Islands','Delhi','ramnager  road, nainital','Online','13','7','2024-06-01','10:52:59','admin@ims.com','','','','Web','Raised')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','manish','Male','manish@gmail.com','7474744444','','Delhi','ramnager  road, nainital','Online','13','7','2024-06-01','11:03:03','admin@ims.com','','','','Portal2','Work In Progress')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('1','Prateek Gupta','Male','','8595767649','Uttar Pradesh','Delhu','','Online','5','13','2024-06-06','14:23:20','pgfiry@gmail.com','','','','reference','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('1','Prateek Gupta','Male','','8826789578','Uttar Pradesh','','','Online','3','22','2024-06-07','09:28:38','dcl@gmail.com','','','','reference','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('1','Prateek Gupta','Male','','8826789578','','','','Online','3','22','2024-06-07','09:39:27','dcl@gmail.com','','','','reference','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('1','Prateek Gupta','Male','','8826789564','','','','Online','1','22','2024-06-07','09:40:21','dcl@gmail.com','','','','youtube','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('1','Prateek Gupta','Male','','8826789578','','','','Online','1','22','2024-06-07','09:41:22','dcl@gmail.com','','','','instagram','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('1','Mayuri Gupta','Male','','8619343686','','','','Online','2','21','2024-06-07','09:43:14','dcl@gmail.com','','','','youtube','Open 2')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('4','Deepak','Male','Deepak@gmsk.kdom','2222222222','Andhra Pradesh','','','Offline','13','10','2024-06-07','11:06:25','vinay.gary@gmail.com','','','','Portal4','Raised')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('2','manish','Male','manish@gmail.com','6666666666','Andhra Pradesh','Delhi','ramnager  road, nainital','Online','14','12','2024-06-07','12:21:36','ajeet@gmail.com','','','','Portal3','Raised')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('1','Manish Sharma','Male','manish@gmail.com','8826789765','','','','Online','1','22','2024-06-07','14:06:00','admin@praajasv.com','','','','reference','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('1','Manish Sharma','Male','pgfiry@gmail.com','8826789578','Delhi','Delhi','','Offline','1','-1','2024-06-15','19:44:18','','','','','Web','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('1','Manish Sharma','Male','pgfiry@gmail.com','8826789978','Delhi','Delhi','','Offline','1','4','2024-06-15','19:49:12','','','','','Web','Open 1')
+ -------------- New Telecaller Leads  ------------------
+INSERT INTO telecaller_leads(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,Remark,LeadSource,Status) VALUES ('1','Test','Male','','8826789578','','','','Online','29','','2024-06-21','15:33:03','admin@praajasv.com','','','Telecaller','Open1')
+ -------------- New Telecaller Leads  ------------------
+INSERT INTO telecaller_leads(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,Remark,LeadSource,Status) VALUES ('1','Test2','Male','','8826789538','','','','Online','29','','2024-06-21','15:33:20','admin@praajasv.com','','','Telecaller','Open1')
+ -------------- New Telecaller Leads  ------------------
+INSERT INTO telecaller_leads(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,Remark,LeadSource,Status) VALUES ('1','Prateek','Male','','8826789573','','','','Online','31','','2024-06-21','16:10:19','pg_telecaller@gmail.com','','','Telecaller','Open1')
+ -------------- New Telecaller Leads  ------------------
+INSERT INTO telecaller_leads(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,Remark,LeadSource,Status) VALUES ('1','Prateek','Male','','8826789572','','','','Online','31','23','2024-06-21','16:11:07','pg_telecaller@gmail.com','','','Telecaller','Open1')
+ -------------- New Telecaller Leads  ------------------
+INSERT INTO telecaller_leads(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,Remark,LeadSource,Status) VALUES ('1','Test','Male','test@gmail.com','8826789578','Uttar Pradesh','Noida','Test Address','Online','31','23','2024-06-23','09:27:52','pg_telecaller@gmail.com','','','Telecaller','Open1')
+ -------------- New Telecaller Leads  ------------------
+INSERT INTO telecaller_leads(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,Remark,LeadSource,Status) VALUES ('1','Mayuri Gupta','Female','','8619343686','','','','Online','31','23','2024-06-23','15:55:55','pg_telecaller@gmail.com','','','Telecaller','Open1')
+ -------------- New Telecaller Leads  ------------------
+INSERT INTO telecaller_leads(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,Remark,LeadSource,Status) VALUES ('1','Test 1','Male','test1@gmail.com','8826789578','Uttar Pradesh','Noida','Test Address','Online','31','23','2024-06-23','16:30:12','pg_telecaller@gmail.com','','','Telecaller','Open1')
+ -------------- New Telecaller Leads  ------------------
+INSERT INTO telecaller_leads(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,Remark,LeadSource,Status) VALUES ('1','Test 2','Male','','8826778956','','','','Online','30','23','2024-06-23','16:42:00','pg_telecaller@gmail.com','','','Telecaller','Open1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,TelecallerLeadID,Status) VALUES ('1','Test 2','Male','','8826778956','Andaman and Nicobar Islands','Port Blair','','Online','','8','2024-06-24','06:10:27','pg_telecaller@gmail.com','','','','Telecaller',2,'Open 1')
+Incorrect integer value: '' for column 'Course' at row 1
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,TelecallerLeadID,Status) VALUES ('1','Test 2','Male','','8826778956','Andaman and Nicobar Islands','Port Blair','','Online','30','8','2024-06-24','06:11:31','pg_telecaller@gmail.com','','','','Telecaller',2,'Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,TelecallerLeadID,Status) VALUES ('1','Test 2','Male','','8826778956','Andaman and Nicobar Islands','Port Blair','','Online','30','8','2024-06-24','06:11:59','pg_telecaller@gmail.com','','','','Telecaller',2,'Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,TelecallerLeadID,Status) VALUES ('1','Test 2','Male','','8826778956','Andaman and Nicobar Islands','Port Blair','','Online','30','8','2024-06-24','06:16:55','shagun@gmail.com','','','','Telecaller',2,'Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,TelecallerLeadID,Status) VALUES ('1','Test 2','Male','','8826778956','Andaman and Nicobar Islands','Port Blair','','Online','30','8','2024-06-24','06:17:05','shagun@gmail.com','','','','Telecaller',2,'Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,TelecallerLeadID,Status) VALUES ('1','Test 1','Male','test1@gmail.com','8826789578','Uttar Pradesh','Noida','Test Address','Online','31','8','2024-06-24','06:17:49','shagun@gmail.com','','','','Telecaller',1,'Open 1')
+ -------------- New Telecaller Leads  ------------------
+INSERT INTO telecaller_leads(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,Remark,LeadSource,Status) VALUES ('1','Test 3','Male','','8861934356','','','','Online','30','23','2024-06-24','06:40:03','pg_telecaller@gmail.com','','','Telecaller','Open1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Rushi Patel','','','9510201744','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Ravindra Chaudhary','','','9313004267','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vasant','','','9624719026','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Jalpa Goyal','','','9974444303','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Manthan Brahmbhatt','','','8238845167','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Haresh Prajapati','','','8758352184','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Riyaz Keshodwala','','','9644064405','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Jani Parixit','','','8200635256','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Dipak Chaudhari','','','9737655425','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vyakhya Panchal','','','9512992938','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Jayesh Chaudhary','','','8980305838','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Yugma Zala','','','9979302439','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','pradip suvan','','','9265600961','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vishwarajsinh','','','7016022884','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Praajasv Foundation Academy','','','9664948280','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Smit Makwana','','','6354277781','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Makvana prins','','','9327911167','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Sadat Daksha','','','9687432168','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Dipak Patel','','','9662096768','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','CHAUHAN RAVI VALLABHBHAI','','','9638228770','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Chetan Rathod','','','7600435141','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Krunal Sen','','','9313058030','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAVINA PATEL','','','8980083219','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Er Bhavesh Vasava','','','9316134062','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Niraliba R Jadeja','','','9773155604','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Riya Thakkar','','','9510286049','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Hardik Vala','','','9327464488','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','R M P','','','9428569938','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Patel Nidhi','','','9537650679','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Cuhaun Nasruddin usmanbie','','','9316402655','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Axay','','','8200790895','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Ashvin Chauhan','','','6356251360','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Patel Prit','','','9712971451','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Pihu','','','9510701036','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MOKARIYA ANIL','','','9725934231','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Gramsevak','','','7203039063','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Mehul Bharvad','','','9586848365','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VIJAY DAMOR','','','9904198629','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Shivani Kacha','','','9512215016','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Kher Rushita','','','8487933484','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Milan Vyas','','','9662221313','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SOMNATH AGRO AGENCY SUTRAPADA KIRIT ZALA','','','9924358897','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Daksha Satani','','','7359513369','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Bhagat Smitaben','','','6355204427','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','yogini mahla','','','8141145874','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Palas Sunil','','','9313231547','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Ram','','','9624873772','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Ashvin Thakor','','','9510783164','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Ashwin','','','8460455401','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Mahipat Dodiya','','','7874486999','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Jt Makwana','','','9624854835','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','satish makwana','','','9974818791','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Rathwa jitu','','','9979199051','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SAGAPARIYA LALJI','','','9725327515','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Nitesh Judal','','','8469404478','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','patel mayur DineshBhai','','','7567462418','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Krunal','','','9099617857','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Trsh','','','6352335640','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Alpesh Govindiya','','','9558228224','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Sachin Prajapati','','','7096292773','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','R S Vala','','','9909981696','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Gavit sadhanaben hareshbhai','','','6351347880','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','vimal','','','9898711730','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Rabari Nikunj','','','9662952520','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Ravat Rajeshkumar','','','6355735765','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Ravi Dangar','','','7779009418','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Gavit Bhavana','','','8347247690','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Niki Tejas','','','8238523022','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','chirag','','','9316736428','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHARA KATARIYA','','','7862994816','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHRUV','','','7069694847','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRAVIN','','','8141073166','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KRUNAL MAKAWANA','','','9978166620','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BIPIN MANKADIYA','','','6353139033','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAYUR PRAJAPATI','','','6352309613','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ANKIT PRAJAPATI','','','9328923304','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','umesh goswami (payal)','','','9909399906','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','GOVIND BHAI','','','8758414739','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ATUL','','','9724001517','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAMESH GOHIL','','','7698445418','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','chadar bhai','','','8160578383','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRATIK','','','8320114161','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NIKUNJ PARMAR','','','9428772294','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ANKIT','','','9998893204','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','CHINTAK PATEL','','','9157269759','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DAX PRAJAPATI','','','9875292076','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RANJITSINH TANK','','','9408569913','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','CHAUDHARY 1997','','','9662241826','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PATEL MONIL','','','9824850825','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','THAKOR KALAJI','','','9978949409','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VEDANT','','','7069743900','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ARUN','','','7433928517','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RITIN','','','9727005298','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAHUL','','','9313736203','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','CHANDRABHAN','','','787498568','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PATEL UNNATI','','','9327527084','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','6351495785','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PARMAR RAHUL','','','635297737','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JINAL PRAJAPATI','','','6354733277','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ASMITA','','','9727858437','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7284884869','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9408190167','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHARMIK PATEL','','','6354448581','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAYDIP','','','6354457917','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SAIF ALI','','','9725693410','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8264022881','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHRUV JAVANI','','','7226801643','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KULDEEP DESAI','','','9016028655','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','GOHIL MUNNA','','','7202067098','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NIRBHAY DODIYA','','','9904891545','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9898612828','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KAUSHIK','','','9265471900','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MEENA JI','','','8529220581','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRYANKA PARMAR','','','9512836867','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PINTU BHOI','','','8160575993','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BHAVINI','','','9428296997','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BHUMI PASAYA','','','6353750117','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BHAVESH','','','7228090986','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ROHIT RATHWA','','','9913962227','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','AYAN MALEK','','','7435047458','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHAVAL','','','9664977563','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHARMESH RATHWA','','','9537339931','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAKESH PANCHAL','','','9104462654','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAYUR SOLANKI','','','9723173774','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JASHMIN RATHVA','','','6353821923','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MANSI PRAJAPATI','','','9723522010','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NIKITA','','','9974833279','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8200337580','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','URVASHI SUTHAR','','','9157017208','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','YAGNIK JOSHI','','','9428343670','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KIRAN PRAJAPATI','','','7861085499','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ALPESH','','','8591702965','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAIMIN','','','8469477080','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VINOD BHOYE','','','8154023964','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','YOGESH','','','9714507436','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','AJAY PATEL','','','9574249488','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAHENDRA BARIYA','','','9327717737','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NIV KAVATHIYA','','','9510321154','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ANIS','','','8980573437','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VIKASH PATEL','','','9726972926','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRAFUL PATEL','','','6355059356','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAM MILAN','','','9687651744','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HIREN','','','8160077355','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KARAMTASANGA','','','8140059737','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SUNIL','','','9265480219','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DARSHAK KACHHADIYA','','','7202834255','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JIGNESH ZALA','','','9737232882','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRATIK CHAUDHARY','','','8980214978','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9106898867','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NAWAZ BLOCH','','','9328305261','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SAM SAIYAD','','','9726209595','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MANU BED','','','9265098508','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SAJID MANKA','','','7862943736','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','LAXMAN','','','7046085891','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HARI THAKOR','','','9879454684','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SURESH BARAIYA','','','7624083370','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAY PRAJAPATI','','','8488023607','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','AJIT','','','9974769428','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ROBINSINH PARMAR','','','9998035310','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','AVADH SAVALIYA','','','8200377151','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NIRAVSINH','','','7046248574','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DINESH CHAUDHARY','','','7046758187','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAYESH BARAD','','','9328002040','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAHIPALSINH RAJPUT','','','8200537015','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SANJAY CHAUHAN','','','9574793210','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','YUVRAJ','','','7046729399','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SIDHDHUBHA SOLANKI','','','9687406138','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HIREN','','','9265173407','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KADIVAR','','','9737953237','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ANIL PARMAR','','','9979958726','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRIYAL CHUDASMA','','','9428776046','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SHREY PATEL','','','7016352674','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9484413763','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAHUL GAGIYA','','','8980515426','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAYU ZALA','','','8140574068','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SUNITA PATEL','','','9979469737','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8469430920','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7016446279','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VIRADIYA NILESH','','','8238647936','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','CHIRAG PARMAR','','','9638323430','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','J J VARU','','','9099375985','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','UTSAV VEKARIYA','','','9016315277','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RUTVIK GAADHE','','','9662249121','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9924509392','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HATHALIYA','','','7862804263','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KAUSHAL VASANI','','','9499693839','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7624056957','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8347857342','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','FENIL PATEL','','','9106150628','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9408413377','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8160011355','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VIJAY BHASKAR','','','8141359747','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HARSH DESAI','','','9904790845','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NACOOL GANGADIYA','','','9726153004','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VIPUL BARIA','','','8849579887','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8866590519','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MEHUL BUDDH','','','9104978576','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7433012776','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAHESH MAHER','','','9510084654','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAYURRAJ SINGH','','','8849397327','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KINAV PATEL','','','8200723065','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAYESHREE','','','9316932580','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HARJAN','','','6354772873','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NARESH CHAUDHARY','','','6351692040','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRUTHVIRAJSINH VADHER','','','6354284088','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','6354785033','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAYAN CHAVDA','','','7203809959','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JASVANT PARMAR','','','9510503855','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRADIP VADHER','','','9724430487','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRASHIL RAJVIR','','','8907906900','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHVANIL ANAND','','','6356107519','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BHARGAV AKBARI','','','9327763935','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAHUL','','','9510735974','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SATISHBHAI','','','6353516362','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HARSH PATEL','','','8780573959','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9904736759','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8320724848','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DIXA','','','9904956986','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','GOPI SAVALIYA','','','6354930250','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7572908309','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHARMIK CHAUHAN','','','8160826767','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAJESH MORI','','','6353363473','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9409418121','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAHRASH PANCHAL','','','9512354811','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8200046298','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','AGJI CHAUDHARY','','','8469618960','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9428368383','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KRUNAL PATEL','','','7016689791','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9624761531','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRINSHI','','','7069483283','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8401621703','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JULI','','','9512568002','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRAGNESH','','','9726187837','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HARSH VALA','','','8140861298','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KAVAN PATEL','','','9638446885','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SURESH CHAUDHARI','','','8799438989','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRADIP','','','8155853461','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VIJAY','','','9712377533','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9913588905','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8780559983','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHIRENDRASINH','','','9687615991','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SANGITA CHAUDHARI','','','8347689019','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BHUPATSINH RANA','','','9974170985','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','TIRTH','','','8799355326','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8264641787','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8469587533','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NARESH DESAI','','','9723047325','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ARVI','','','9426059906','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAYESH CHAUDHARY','','','9725905838','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Nirali Jadav','','','9316371557','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ANIL GADHIYA','','','9274734655','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Hiren Dodiya','','','7096797911','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Patel Riddhi','','','9265906440','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vishal Amipara','','','9727881465','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','GAURAV DAMOR','','','9726478710','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Yash Patel','','','7990174476','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JIGAR PATEL','','','8980686442','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9712515078','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRIYANK CHAUDHARY','','','6354083632','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7874004935','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','6351856457','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SATBHAV','','','9924416040','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8866839217','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MITESH','','','8320757212','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SAGAR','','','9909331991','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9558890577','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAULIK','','','6354849441','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7984067455','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7283997971','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DIPEN','','','9727986386','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAYDEEPSINH DABHI','','','9016166894','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SACHIN','','','8849836868','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KALPESH PRAJAPATI','','','7624062391','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8238239384','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DILIP','','','9662432804','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','6354278062','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAYUR PATEL','','','9427217410','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HIREN DODIYA','','','8780839192','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PATEL DARSHANA','','','9573739256','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Dhar Paramar Ajay','','','9664560674','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Mahesh Thakor','','','9558528523','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Raj Damor','','','7698647345','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Shreyas Parsana','','','9974223426','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Chaudhari Shailesh','','','9998913567','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Darshana Bochiya','','','8799559082','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Mallika Chaudhaari','','','9586408788','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VIJAY','','','9904050217','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BHAVESH','','','9099591940','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Himalay Parmar','','','7567482847','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','vijay','','','8000381049','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Shyam','','','9033508157','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Rajdip','','','7069920864','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BHATTI SAFWAN','','','9998660592','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ASHOK MAKAWANA','','','6351523862','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PATEL KRUPA','','','9726664782','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHARMENDRA PATEL','','','9722225501','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAYUR PRAJAPATI','','','9558059409','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DARSHAN','','','9099092142','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HARESH CHAVDA','','','9408556626','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RANJIT PATEL','','','9327010973','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MUKESH KUMAR','','','8619424879','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VINESH BHURIYA','','','9879572530','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8320818478','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PANKAJ PATEL','','','9427210178','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAYDEVSINH CHAVDA','','','9586914338','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MEET PATEL','','','9328694861','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DARSHAN','','','9313025841','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAHENDRASINH ZALA','','','8160085426','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SAVALIYA RAJESH','','','9979697960','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KOSIYANIYA MANJIL','','','7046222140','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Sonali Khodbhaya','','','8200088467','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Chetan Chaudhary','','','9265088371','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAVI','','','7990710926','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ROHIT CHAVDA','','','8156029393','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','NIRGUN','','','6352681388','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Mayuri','','','9624090660','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vadhiya Bhavesh','','','9724762352','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','CHIRAG PATNI','','','7383523256','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','LALIT MAKWANA','','','9016054018','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Makadiya Vishal','','','9313461062','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Suchit Patel','','','6352686808','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Padmavati','','','7016535968','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Shubham Bhavsar','','','9427922895','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','6359596902','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PARMAR VICKY','','','7863076396','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','6357304230','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7359410852','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9737204368','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9328554517','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','UMANG JADAV','','','8460125109','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JAYPALSINH VAGHELA','','','9327648807','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RONAK DAMOR','','','9979193437','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ANKUR VAISHNAV','','','7016347695','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SEJAL PATEL','','','9638598210','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','GOHEL KISHAN','','','6352789055','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9979982293','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','6359558068','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRAKASH','','','9016275772','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','9387648040','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KULDIPSINH DABHI','','','7359095306','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KINJAL RATHOD','','','9327491170','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MALEK SAHID','','','9601465336','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VIPUL','','','9106546862','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PRINSH MAKAWANA','','','8141691780','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BHAVANA MALI','','','7203832696','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','HINAL TADVI','','','9687976355','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Sahil Modi','','','9586867272','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Snehalbhai Pavar','','','9924013421','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Binit','','','6351602943','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Jagdish Kalma','','','9898550364','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Ramesh Prajapati','','','7573905300','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Kkk','','','9054838375','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Pooja Patel','','','9106638157','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Abdulmutlib','','','9714480476','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ashwin','','','8140060029','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','kalpesh','','','9537462992','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BABUBHAI','','','7046842230','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','KESARIYA DASHRATH','','','7984493004','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','BHAVESH MOR','','','9106313887','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PATEL PARTH','','','9016631979','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MILAN','','','9664645347','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7383332858','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SANJAY','','','7043707551','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PATEL VIDHI','','','9426896817','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','6355801614','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Princi Mandod','','','8200708322','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Parmar Ravirajsinh','','','9510014591','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','jignesh Makvana','','','7990034562','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ishvarsinh dabhi','','','9724263654','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Conclave G','','','8200436129','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','VEERU','','','9687707108','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','MAULIK','','','9327321731','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','JEEL','','','8160064281','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DHANAJI MALI','','','9904429989','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','7016724661','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAMESH','','','7203835192','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','','','','8128505651','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DILIP RATHOD','','','9898642333','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','PARBAR BAMNIYA','','','7202850766','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','RAVI','','','9724563665','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','DAHYABHAI','','','9712017126','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ALPA SOLANKI','','','635554457','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Godavariya Kishan','','','9033548301','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Sarthak Lakhanotra','','','7283994756','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','THAKOR hasmukh','','','9904019752','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vp Vp','','','8849682975','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vala Vaishali','','','9106019519','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Naran Rabari','','','7802902747','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Komal Chaudhary','','','9328288912','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Sunil Baria','','','8780832995','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Dhruv','','','6359271342','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Hetal Parmar','','','9327917145','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Arati Chauhan','','','9328539226','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Thakor Chirag','','','8487852940','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ROYAL 'DARBAR'','','','9173449086','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DARBAR'','','','9173449086','','','','Offline','32','22','2024-06-28','09:33:22'' at line 1
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Rabari Nehal','','','9510627733','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Narpatsinh jadeja','','','8141424174','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Anand','','','9510591428','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Mahesh Desai','','','6354932509','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Bodar Mulu','','','6354165061','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','SID JOSHI','','','9909899090','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Jay','','','9408269143','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Nilesh','','','8320638454','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Ashraf Mahida','','','8673880597','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vankar Dharmik','','','7359319844','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','N g Parmar','','','8160106063','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Keshvala Rakesh','','','9558416455','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','eg. Parmar Darshan','','','6352782497','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vijay','','','9662050855','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Desai Mayur','','','9726520972','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Raviraj','','','9662517109','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Vishnu Chaudhary','','','6351952787','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Chintan Patel','','','9624431736','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Janaki Patel','','','9925024299','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','Rajan Khunt','','','9662983394','','','','Offline','32','22','2024-06-28','09:33:22','gayatri@praajasv.com','','','','Excel','Open 1')
+ -------------- New Leads  ------------------
+INSERT INTO all_lead(BranchID,Name,Gender,Email,PhoneNumber,State,City,Address,Mode,Course,AssignedTo,CreatedDate,CreatedTime,CreatedBy,DOB,HighestQualification,Remark,LeadSource,Status) VALUES ('3','ROYAL 'DARBAR'','','','9173449086','','','','Offline','32','22','2024-06-28','09:33:31','gayatri@praajasv.com','','','','Excel','Open 1')
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DARBAR'','','','9173449086','','','','Offline','32','22','2024-06-28','09:33:31'' at line 1

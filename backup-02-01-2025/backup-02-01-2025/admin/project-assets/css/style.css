@@ -1,0 +1,39 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.login_logo {
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .login_logo {
+    width: 100%;
+  }
+
+  .container-login100 {
+    width: 100%;
+  }
+}
+
+.form-group {
+    text-align: left !important;
+}
+.clr-picker {
+  z-index: 10000 !important;
+}
+
+.col-form-label {
+  font-weight: 600;
+}
+
+.card-header label {
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.product_save_col{
+  position: sticky;
+    top: 121px;
+    z-index: 1;
+}

@@ -1,0 +1,8 @@
+[13-Mar-2025 11:23:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Blog::getTotalBlog() in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/blogs/ajax/view-all-blogs-post.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/blogs/ajax/view-all-blogs-post.php on line 37
+[13-Mar-2025 11:25:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Blog::getTotalBlog() in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/blogs/ajax/view-all-blogs-post.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/f93aei2uy33k/public_html/dev.digistreetmedia.in/apsom/admin/blogs/ajax/view-all-blogs-post.php on line 37
